@@ -1,3 +1,1 @@
-# react-yglwmt
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-yglwmt)
+Simple budget calculator with edi and delete options
